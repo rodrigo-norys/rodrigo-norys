@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Prazer, Rodrigo Norys! <br>
-Carioca, 31 anos e graduado em Banco de Dados pela UNESA. Minha jornada na tecnologia começou no Suporte Técnico, onde aprendi a diagnosticar falhas e entender as dores dos usuários.
+Carioca, graduado em Banco de Dados pela UNESA. Minha jornada na tecnologia começou no Suporte Técnico, onde aprendi a diagnosticar falhas e entender as dores dos usuários.
 
 Hoje, vivo um novo capítulo: abdiquei da atuação no suporte para mergulhar de cabeça no ecossistema de Desenvolvimento. Acredito que minha experiência prévia com dados e infraestrutura é o alicerce perfeito para criar códigos limpos, performáticos e escaláveis.
 
