@@ -144,10 +144,10 @@ E para ver como transformo lógica em interface, acesse meu projeto principal. E
 <table border="0" width="100%">
   <tr>
     <td width="51%" align="center">
-      <img width="400" height="180" src="https://github-readme-stats-red-gamma-62.vercel.app/api?username=rodrigo-norys&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br&card_width=400" />
+      <img width="460" height="180" src="https://github-readme-stats-red-gamma-62.vercel.app/api?username=rodrigo-norys&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br&card_width=460" />
     </td>
     <td width="48%" align="center">
-      <img width="400" height="180" src="https://github-readme-stats-red-gamma-62.vercel.app/api/top-langs/?username=rodrigo-norys&layout=compact&custom_title=Tecnologias&langs_count=8&theme=synthwave&card_width=400" />
+      <img width="460" height="180" src="https://github-readme-stats-red-gamma-62.vercel.app/api/top-langs/?username=rodrigo-norys&layout=compact&custom_title=Tecnologias&langs_count=8&theme=synthwave&card_width=460" />
     </td>
   </tr>
 </table>
