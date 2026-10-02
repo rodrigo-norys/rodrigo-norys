@@ -37,10 +37,11 @@ Carioca, graduado em Banco de Dados pela UNESA.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-red-gamma-62.vercel.app/api?username=rodrigo-norys&show_icons=true&include_all_commits=true&locale=pt-br&hide_rank=true&hide=stars%2Cissues%2Ccontribs&show=prs_merged%2Cprs_merged_percentage&custom_title=Estat%C3%ADsticas%20do%20GitHub&hide_border=true&disable_animations=true&card_width=400&theme=github_dark">
-    <img height="210" alt="Commits e pull requests" src="https://github-readme-stats-red-gamma-62.vercel.app/api?username=rodrigo-norys&show_icons=true&include_all_commits=true&locale=pt-br&hide_rank=true&hide=stars%2Cissues%2Ccontribs&show=prs_merged%2Cprs_merged_percentage&custom_title=Estat%C3%ADsticas%20do%20GitHub&hide_border=true&disable_animations=true&card_width=400">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigo-norys/rodrigo-norys/main/profile/stats-dark.svg">
+    <img height="210" alt="Commits e pull requests" src="https://raw.githubusercontent.com/rodrigo-norys/rodrigo-norys/main/profile/stats-light.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-red-gamma-62.vercel.app/api/top-langs/?username=rodrigo-norys&layout=donut&langs_count=5&hide=batchfile%2Cpowershell%2Chtml&custom_title=Linguagens&locale=pt-br&hide_border=true&disable_animations=true&theme=github_dark">
-    <img height="210" alt="Linguagens mais usadas" src="https://github-readme-stats-red-gamma-62.vercel.app/api/top-langs/?username=rodrigo-norys&layout=donut&langs_count=5&hide=batchfile%2Cpowershell%2Chtml&custom_title=Linguagens&locale=pt-br&hide_border=true&disable_animations=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigo-norys/rodrigo-norys/main/profile/langs-dark.svg">
+    <img height="210" alt="Linguagens mais usadas" src="https://raw.githubusercontent.com/rodrigo-norys/rodrigo-norys/main/profile/langs-light.svg">
   </picture>
+</p>
