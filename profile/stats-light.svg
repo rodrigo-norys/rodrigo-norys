@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub, Rank: B-</title>
-        <desc id="descId">Total de Commits  : 1027, Total de PRs: 210, Total de PRs Integrados: 205, Porcentagem de PRs Integrados: 97.62</desc>
+        <desc id="descId">Total de Commits  : 1059, Total de PRs: 219, Total de PRs Integrados: 214, Porcentagem de PRs Integrados: 97.72</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 165.4486104712569;
+        stroke-dashoffset: 164.59669462965348;
       }
     }
   
@@ -158,7 +158,7 @@
         x="274.01"
         y="12.5"
         data-testid="commits"
-      >1k</text>
+      >1.1k</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -173,7 +173,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs"
-      >210</text>
+      >219</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -188,7 +188,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs_merged"
-      >205</text>
+      >214</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -203,7 +203,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >97.62 %</text>
+      >97.72 %</text>
     </g>
   </g>
     </svg>
